@@ -131,7 +131,8 @@
         "watch-test": "ava --watch"
     },
     "types": "dist/module/module.d.ts",
-    "version": "1.3.1"
+    "version": "1.3.1",
+    "bin": {}
 }
 ```
 
